@@ -1,3 +1,14 @@
+Basic instructions
+
+1. the landing page will list all the recepie after fetching from api
+2. after rendering all the dishes all the details about detail are mentioned on cards
+3. When you will click buy button you will land to payment gateway
+4. insert your carddetail and it will show your card (Master card or Visa card)
+5. after filling all the detail you will click on make payment button and after sometime it will show you amount
+6. and again redirect you to main landing page.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
